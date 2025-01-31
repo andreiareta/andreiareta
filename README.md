@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @andreiareta
 - 👀 I’m interested in coding/progeamming.
-- 🌱 I’m currently learning GIT AND JS
-- 💞️ I’m looking to collaborate on projects that can help me improve my skills. 
+- I am currently learning C#
 - 📫 How to reach me andreiareta30@gmail.com
 
 <!---
